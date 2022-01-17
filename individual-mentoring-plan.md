@@ -20,21 +20,21 @@ _These are more concrete steps towards achieving your goals. For example, things
 **4. Plan of attack**   
 _Think about this as the daily/weekly schedule that will move you towards hitting your milestones and achieving your goals. For example, in your first semester your plan may include reading the literature, working on a funding proposal, and taking classes. In your later semesters, your plan may include things like finishing data analysis, drafting a paper, or preparing a conference presentation._
  
-**Publication plans**  
+**5. Publication plans**  
 _An MSc degree typically includes 1-2 papers based on work that you did. A PhD degree typically includes 3-4 (and the lower numbers for both of these are totally great!). Typically, you will be the first author on papers in your dissertation. Carly will help with design, analysis, and writing, and will be a co-author. Other co-authors (e.g. co-supervisors, committee members, other students or colleagues) will be discussed as warranted. This section will evolve as you move throughout your degree (e.g. we will outline specific papers and target journals based on your research). For an MSc degree, I expect a solid draft of one paper by graduation (but you may or may not have a paper submitted or published yet). For a PhD degree, it is best to publish as you go; ideally, you will have one or more papers submitted by the time you defend your thesis._  
 
-**5. Professional meetings or workshops**  
+**6. Professional meetings or workshops**   
 _Here, we will discuss any conferences, workshops, or special courses you may want to attend in the upcoming semester/year._
  
-**6. Funding**
+**7. Funding**  
 _Funding: In this section, we will discuss funding for your stipend, your research costs, and travel for each semester/year, as well as any upcoming grants or fellowships you may be eligible to apply to. It’s ok to ask about money - you should always know where your funding is coming from!_
  
-**7. Courses**
+**8. Courses**  
 _Which courses are you taking? Which are you considering?_
  
-**8. Plans for meeting and communication** 
+**9. Plans for meeting and communication**  
 _This is an opportunity to touch base about how frequently we want to meet (as well as any needed meetings with key collaborators or co-advisors). We will start with ~ bi-weekly meetings, but this can shift over time, as you settle into your project and have a better idea of your needs. There may be periods we meet infrequently (e.g., when you are in the field, or working on lab analysis or identification for stretches of time), and periods we meet more frequently (e.g., during intensive analysis or writing periods where you need more feedback). We will also discuss how to best get in touch for different purposes._  
  
-**9. Data, code, and documentation**  
+**10. Data, code, and documentation**   
 _To be written! This is a good topic for a future lab meeting…_
 
